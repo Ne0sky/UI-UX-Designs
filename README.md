@@ -1,2 +1,3 @@
 # UI-UX-Designs
-![Blog Website UI](https://github.com/Ne0sky/UI-UX-Designs/blob/main/UI%20UX/Frame%2020.png)
+This repository contains, my UI UX works.
+Go to the UI XU folder, and click on the PNGs to see the images.
